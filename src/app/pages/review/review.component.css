@@ -1,0 +1,35 @@
+.container1{
+  text-align: center;
+}
+.example-card {
+  max-width: 400px;
+}
+
+.container{
+  padding: 24px;
+}
+
+
+.responsive-grid{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap:24px;
+}
+
+.container2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.boton {
+  background-color: #000000;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 10px 5px 10px;
+  font-size: 1.14rem;
+  margin-right: 05px;
+
+}
+
+
+
